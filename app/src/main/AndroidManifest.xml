@@ -34,6 +34,9 @@
 
         <activity android:name=".BarcodeCaptureActivity"
             android:label="Read Barcode"/>
+
+        <activity android:name=".DecodedQRActivity"
+            android:label="Read decoded QR"/>
     </application>
 
 </manifest>
