@@ -54,6 +54,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
 //        useFlash = (CompoundButton) findViewById(R.id.use_flash);
 
         findViewById(R.id.read_barcode).setOnClickListener(this);
+        findViewById(R.id.generate_qr).setOnClickListener(this);
     }
 
     /**
@@ -69,7 +70,11 @@ public class MainActivity extends Activity implements View.OnClickListener {
 //            intent.putExtra(BarcodeCaptureActivity.AutoFocus, autoFocus.isChecked());
 //            intent.putExtra(BarcodeCaptureActivity.UseFlash, useFlash.isChecked());
 
-            startActivityForResult(intent, RC_BARCODE_CAPTURE);
+//            startActivityForResult(intent, RC_BARCODE_CAPTURE);
+            startActivity(intent);
+        } else if (v.getId() == R.id.generate_qr) {
+            Intent intent = new Intent(this, GenerateQRActivity.class);
+            startActivity(intent);
         }
 
     }
