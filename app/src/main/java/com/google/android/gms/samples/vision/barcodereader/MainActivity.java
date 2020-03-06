@@ -72,7 +72,8 @@ public class MainActivity extends Activity implements View.OnClickListener {
 
 //            startActivityForResult(intent, RC_BARCODE_CAPTURE);
             startActivity(intent);
-        } else if (v.getId() == R.id.generate_qr) {
+        }
+        if (v.getId() == R.id.generate_qr) {
             Intent intent = new Intent(this, GenerateQRActivity.class);
             startActivity(intent);
         }
