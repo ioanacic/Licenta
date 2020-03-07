@@ -43,6 +43,9 @@
 
         <activity android:name="GenerateQRActivity"
             android:label="Generate QR code"/>
+
+        <activity android:name="SecondActivity"
+            android:label="After you logged in"/>
     </application>
 
 </manifest>
