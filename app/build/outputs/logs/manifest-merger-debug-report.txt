@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:2:1-54:12
-INJECTED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:2:1-54:12
-INJECTED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:2:1-54:12
-INJECTED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:2:1-54:12
+ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:2:1-54:12
 MERGED from [com.google.firebase:firebase-core:15.0.0] C:\Users\onuta\.gradle\caches\transforms-2\files-2.1\efe93d689457abb236d61f7c36d1a845\firebase-core-15.0.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.android.support:design:26.1.0] C:\Users\onuta\.gradle\caches\transforms-2\files-2.1\79cdb468918a9c0443e8ae621efb8d08\design-26.1.0\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\onuta\.gradle\caches\transforms-2\files-2.1\89fe34f5d231df537fbe99fa42b7ad21\appcompat-v7-26.1.0\AndroidManifest.xml:17:1-31:12
@@ -40,43 +40,43 @@ MERGED from [com.android.support:support-compat:26.1.0] C:\Users\onuta\.gradle\c
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\onuta\.gradle\caches\transforms-2\files-2.1\e34fd15cdb4f3218c857012df977f576\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\onuta\.gradle\caches\transforms-2\files-2.1\2964c94f4b542708ef4adb2307962c5c\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] C:\Users\onuta\.gradle\caches\transforms-2\files-2.1\e22b0b9b87181646e3d06f04a5e74969\play-services-measurement-base-15.0.2\AndroidManifest.xml:17:1-24:12
-INJECTED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:2:1-54:12
-INJECTED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:2:1-54:12
-INJECTED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:2:1-54:12
 	package
-		ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:3:5-66
-		INJECTED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml
-		INJECTED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml
+		ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:3:5-66
+		INJECTED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml
-		ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:2:1-54:12
-		INJECTED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml
+		ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:2:1-54:12
+		INJECTED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml
-		ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:2:1-54:12
-		INJECTED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml
+		ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:2:1-54:12
+		INJECTED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:2:11-69
 	android:installLocation
-		ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:4:5-35
+		ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:4:5-35
 uses-feature#android.hardware.camera
-ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:6:5-60
+ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:6:5-60
 	android:name
-		ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:6:19-57
+		ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:6:19-57
 uses-permission#android.permission.CAMERA
-ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:8:5-65
+ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:8:5-65
 	android:name
-		ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:8:22-62
+		ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:8:22-62
 uses-permission-sdk-23#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:10:5-87
+ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:10:5-87
 	android:name
-		ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:10:29-85
+		ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:10:29-85
 uses-permission-sdk-23#android.permission.READ_EXTERNAL_STORAGE
-ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:11:5-86
+ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:11:5-86
 	android:name
-		ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:11:29-84
+		ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:11:29-84
 application
-ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:13:5-52:19
+ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:13:5-52:19
 MERGED from [com.google.firebase:firebase-core:15.0.0] C:\Users\onuta\.gradle\caches\transforms-2\files-2.1\efe93d689457abb236d61f7c36d1a845\firebase-core-15.0.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-core:15.0.0] C:\Users\onuta\.gradle\caches\transforms-2\files-2.1\efe93d689457abb236d61f7c36d1a845\firebase-core-15.0.0\AndroidManifest.xml:7:5-20
 MERGED from [com.android.support:design:26.1.0] C:\Users\onuta\.gradle\caches\transforms-2\files-2.1\79cdb468918a9c0443e8ae621efb8d08\design-26.1.0\AndroidManifest.xml:25:5-29:19
@@ -140,83 +140,83 @@ MERGED from [com.android.support:support-compat:26.1.0] C:\Users\onuta\.gradle\c
 MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] C:\Users\onuta\.gradle\caches\transforms-2\files-2.1\e22b0b9b87181646e3d06f04a5e74969\play-services-measurement-base-15.0.2\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] C:\Users\onuta\.gradle\caches\transforms-2\files-2.1\e22b0b9b87181646e3d06f04a5e74969\play-services-measurement-base-15.0.2\AndroidManifest.xml:22:5-20
 	android:supportsRtl
-		ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:19:9-37
+		ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:19:9-37
 	android:label
-		ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:18:9-40
+		ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:18:9-40
 	android:hardwareAccelerated
-		ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:16:9-43
+		ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:16:9-43
 	android:fullBackupContent
-		ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:15:9-42
+		ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:15:9-42
 	android:icon
-		ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:17:9-38
+		ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:17:9-38
 	android:allowBackup
-		ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:14:9-35
+		ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:14:9-35
 	android:theme
-		ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:20:9-47
+		ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:20:9-47
 meta-data#com.google.android.gms.version
-ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:21:9-23:69
+ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:21:9-23:69
 MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\onuta\.gradle\caches\transforms-2\files-2.1\b9d03b2311d983f3a3a5ac9981b96896\play-services-basement-16.1.0\AndroidManifest.xml:23:9-25:69
 MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\onuta\.gradle\caches\transforms-2\files-2.1\b9d03b2311d983f3a3a5ac9981b96896\play-services-basement-16.1.0\AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:23:13-66
+		ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:23:13-66
 	android:name
-		ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:22:13-58
+		ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:22:13-58
 meta-data#com.google.android.gms.vision.DEPENDENCIES
-ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:24:9-26:39
+ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:24:9-26:39
 	android:value
-		ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:26:13-36
+		ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:26:13-36
 	android:name
-		ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:25:13-70
+		ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:25:13-70
 activity#com.google.android.gms.samples.vision.barcodereader.MainActivity
-ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:28:9-36:20
+ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:28:9-36:20
 	android:label
-		ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:30:13-56
+		ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:30:13-56
 	android:name
-		ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:29:13-41
+		ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:29:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:31:13-35:29
+ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:31:13-35:29
 action#android.intent.action.MAIN
-ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:32:17-69
+ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:32:17-69
 	android:name
-		ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:32:25-66
+		ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:32:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:34:17-77
+ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:34:17-77
 	android:name
-		ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:34:27-74
+		ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:34:27-74
 activity#com.google.android.gms.samples.vision.barcodereader.BarcodeCaptureActivity
-ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:38:9-39:43
+ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:38:9-39:43
 	android:label
-		ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:39:13-41
+		ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:39:13-41
 	android:name
-		ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:38:19-57
+		ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:38:19-57
 activity#com.google.android.gms.samples.vision.barcodereader.DecodedQRActivity
-ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:41:9-42:46
+ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:41:9-42:46
 	android:label
-		ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:42:13-44
+		ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:42:13-44
 	android:name
-		ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:41:19-52
+		ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:41:19-52
 activity#com.google.android.gms.samples.vision.barcodereader.GenerateQRActivity
-ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:44:9-45:47
+ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:44:9-45:47
 	android:label
-		ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:45:13-45
+		ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:45:13-45
 	android:name
-		ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:44:19-52
+		ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:44:19-52
 activity#com.google.android.gms.samples.vision.barcodereader.SecondActivity
-ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:47:9-48:50
+ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:47:9-48:50
 	android:label
-		ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:48:13-48
+		ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:48:13-48
 	android:name
-		ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:47:19-48
+		ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:47:19-48
 activity#com.google.android.gms.samples.vision.barcodereader.SignUpActivity
-ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:50:9-51:45
+ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:50:9-51:45
 	android:label
-		ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:51:13-43
+		ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:51:13-43
 	android:name
-		ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:50:19-49
+		ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:50:19-49
 uses-sdk
-INJECTED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml
-INJECTED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml
+INJECTED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml
+INJECTED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml
 MERGED from [com.google.firebase:firebase-core:15.0.0] C:\Users\onuta\.gradle\caches\transforms-2\files-2.1\efe93d689457abb236d61f7c36d1a845\firebase-core-15.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-core:15.0.0] C:\Users\onuta\.gradle\caches\transforms-2\files-2.1\efe93d689457abb236d61f7c36d1a845\firebase-core-15.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.android.support:design:26.1.0] C:\Users\onuta\.gradle\caches\transforms-2\files-2.1\79cdb468918a9c0443e8ae621efb8d08\design-26.1.0\AndroidManifest.xml:21:5-23:62
@@ -289,18 +289,18 @@ MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\onuta\.gradle\caches
 MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\onuta\.gradle\caches\transforms-2\files-2.1\2964c94f4b542708ef4adb2307962c5c\runtime-1.1.1\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] C:\Users\onuta\.gradle\caches\transforms-2\files-2.1\e22b0b9b87181646e3d06f04a5e74969\play-services-measurement-base-15.0.2\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] C:\Users\onuta\.gradle\caches\transforms-2\files-2.1\e22b0b9b87181646e3d06f04a5e74969\play-services-measurement-base-15.0.2\AndroidManifest.xml:20:5-44
-INJECTED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml
-INJECTED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml
+INJECTED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml
+INJECTED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
 		ADDED from [com.android.support:design:26.1.0] C:\Users\onuta\.gradle\caches\transforms-2\files-2.1\79cdb468918a9c0443e8ae621efb8d08\design-26.1.0\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml
-		ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml
-		INJECTED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml
+		ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml
-		ADDED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml
-		INJECTED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml
+		ADDED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
 ADDED from [com.android.support:design:26.1.0] C:\Users\onuta\.gradle\caches\transforms-2\files-2.1\79cdb468918a9c0443e8ae621efb8d08\design-26.1.0\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\onuta\.gradle\caches\transforms-2\files-2.1\89fe34f5d231df537fbe99fa42b7ad21\appcompat-v7-26.1.0\AndroidManifest.xml:26:9-28:38
@@ -526,4 +526,4 @@ ADDED from [androidmads.library.qrgenearator:QRGenearator:1.0.3] C:\Users\onuta\
 	android:name
 		ADDED from [androidmads.library.qrgenearator:QRGenearator:1.0.3] C:\Users\onuta\.gradle\caches\transforms-2\files-2.1\9242686cf7e3a0c57a7793a7fb626ac5\QRGenearator-1.0.3\AndroidManifest.xml:11:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from E:\Facultate\Licenta gooood\app\src\main\AndroidManifest.xml:2:1-54:12 reason: androidmads.library.qrgenearator requested WRITE_EXTERNAL_STORAGE
+IMPLIED from E:\Facultate\Licenta fixed\app\src\main\AndroidManifest.xml:2:1-54:12 reason: androidmads.library.qrgenearator requested WRITE_EXTERNAL_STORAGE

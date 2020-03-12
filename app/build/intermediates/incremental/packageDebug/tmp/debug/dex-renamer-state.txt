@@ -1,4 +1,4 @@
-#Thu Mar 12 17:13:16 EET 2020
-base.0=E\:\\Facultate\\Licenta gooood\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+#Thu Mar 12 18:19:20 EET 2020
+base.0=E\:\\Facultate\\Licenta fixed\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

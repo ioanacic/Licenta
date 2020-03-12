@@ -828,6 +828,7 @@ id design_menu_item_action_area
 id design_menu_item_action_area_stub
 id design_menu_item_text
 id design_navigation_view
+id detail
 id disableHome
 id edit_query
 id edt_value
@@ -893,6 +894,7 @@ id parent_matrix
 id passwordTextView
 id pin
 id preview
+id progressBar
 id progress_circular
 id progress_horizontal
 id radio
@@ -937,6 +939,7 @@ id src_in
 id src_over
 id standard
 id start
+id status
 id status_bar_latest_event_content
 id status_message
 id submenuarrow
@@ -973,6 +976,7 @@ id uniform
 id up
 id useLogo
 id use_flash
+id verifyEmailButton
 id view_offset_helper
 id visible
 id wide
@@ -1054,6 +1058,7 @@ layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
 layout sign_in_activity
+layout sign_in_activity_bad
 layout sign_up_activity
 layout support_simple_spinner_dropdown_item
 layout tooltip

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Facultate\\Licenta gooood\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sv\\values-sv.xml",
+            "outputFile": "E:\\Facultate\\Licenta fixed\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sv\\values-sv.xml",
             "map": [
                 {
                     "source": "C:\\Users\\onuta\\.gradle\\caches\\transforms-2\\files-2.1\\53c75b8b6f70a6c5f304e68cff55c587\\play-services-base-16.0.1\\res\\values-sv\\values.xml",
