@@ -1,68 +1,92 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical" android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"><![CDATA[
     tools:context="com.google.android.gms.samples.vision.barcodereader.MainActivity">
+
+    ]]>
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="350dp"
+        android:layout_height="300dp"
         android:background="#FF9800"
         android:orientation="vertical">
 
         <Space
             android:layout_width="match_parent"
-            android:layout_height="10dp" />
+            android:layout_height="100dp" />
 
-        <TextView
-            android:id="@+id/status"
+        <TableLayout
             android:layout_width="match_parent"
-            android:layout_height="30dp" />
+            android:layout_height="match_parent">
 
-        <Space
-            android:layout_width="match_parent"
-            android:layout_height="10dp" />
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
 
-        <TextView
-            android:id="@+id/detail"
-            android:layout_width="match_parent"
-            android:layout_height="30dp" />
+                <Space
+                    android:layout_width="30dp"
+                    android:layout_height="wrap_content" />
 
-        <Space
-            android:layout_width="match_parent"
-            android:layout_height="80dp" />
+                <TextView
+                    android:id="@+id/emailTextView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Email Adress"
+                    android:textSize="18sp" />
 
-        <EditText
-            android:id="@+id/fieldEmail"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:ems="10"
-            android:inputType="textPersonName"
-            android:text="Email Address" />
+                <Space
+                    android:layout_width="10dp"
+                    android:layout_height="wrap_content" />
 
-        <EditText
-            android:id="@+id/fieldPassword"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:ems="10"
-            android:inputType="textPersonName"
-            android:text="Password" />
+                <EditText
+                    android:id="@+id/fieldEmail"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ems="10"
+                    android:inputType="textPersonName" />
+            </TableRow>
 
-        <Space
-            android:layout_width="match_parent"
-            android:layout_height="30dp" />
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
 
-        <ProgressBar
-            android:id="@+id/progressBar"
-            style="?android:attr/progressBarStyle"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content" />
+                <Space
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:id="@+id/passwordTextView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Password"
+                    android:textSize="18sp" />
+
+                <Space
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+                <EditText
+                    android:id="@+id/fieldPassword"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ems="10"
+                    android:inputType="textPassword" />
+
+            </TableRow>
+
+        </TableLayout>
     </LinearLayout>
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="vertical"/>
+        android:orientation="vertical">
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="30dp" />
+    </LinearLayout>
 
     <TableLayout
         android:layout_width="match_parent"
@@ -73,7 +97,7 @@
             android:layout_height="match_parent" >
 
             <Space
-                android:layout_width="wrap_content"
+                android:layout_width="150dp"
                 android:layout_height="wrap_content" />
 
             <Button
@@ -112,21 +136,6 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="SIGN OUT" />
-        </TableRow>
-
-        <TableRow
-            android:layout_width="match_parent"
-            android:layout_height="match_parent" >
-
-            <Space
-                android:layout_width="150dp"
-                android:layout_height="wrap_content" />
-
-            <Button
-                android:id="@+id/verifyEmailButton"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="VERIFY EMAIL" />
         </TableRow>
 
         <TableRow

@@ -46,6 +46,9 @@
 
         <activity android:name="SecondActivity"
             android:label="After you logged in"/>
+
+        <activity android:name=".SignUpActivity"
+            android:label="Create account"/>
     </application>
 
 </manifest>
